@@ -8,7 +8,6 @@ __Features__
 - Enjoy fullscreen mode for a distraction-free experience.
 - Experience full responsiveness for seamless usage across devices.
 
-  ##__FAQ__
-
+# FAQ
   ## Languages Used
   Html, CSS, and Javascript.
