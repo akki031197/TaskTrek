@@ -9,5 +9,5 @@ __Features__
 - Experience full responsiveness for seamless usage across devices.
 
 # FAQ
-  ## Languages Used
+  __Languages Used__
   Html, CSS, and Javascript.
