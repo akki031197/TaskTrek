@@ -7,3 +7,8 @@ __Features__
 - Refresh the entire task list with a single click using the refresh button.
 - Enjoy fullscreen mode for a distraction-free experience.
 - Experience full responsiveness for seamless usage across devices.
+
+  __FAQ__
+
+  ## __Languages Used__
+  Html, CSS, and Javascript.
