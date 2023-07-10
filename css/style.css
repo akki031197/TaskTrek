@@ -48,6 +48,15 @@ body {
   top: 8px;
   right: 16px;
 }
+.container .top-right i {
+  font-size: 30px;
+  color: #403a3a;
+}
+.container .top-right i:hover {
+  cursor: pointer;
+  text-shadow: 1px 3px 5px #000;
+  transform: rotate(45deg);
+}
 .footer {
   margin-top: 370px;
 }
@@ -56,15 +65,26 @@ body {
   border-top: 1px solid #1a0c0c;
   margin-bottom: 10px;
 }
+
 .circle {
-  width: 200px;
-  height: 200px;
-  border-radius: 50%;
-  overflow: hidden;
+  display: inline-flex;
+  align-items: center;
 }
-.circle img {
-  display: block;
-  width: 100%;
-  height: auto;
+
+.circle i.fa-duotone.fa-plus {
+  font-size: 14px;
+  padding: 5px;
   border-radius: 50%;
+  background-color: #000;
+  color: #fff;
+  margin-right: 5px;
+}
+
+.circle input[type="text"] {
+  width: 238px;
+  border: none;
+  border-bottom: 1px solid #000;
+  flex-grow: 1;
+  padding: 5px 10px;
+  outline: none;
 }
